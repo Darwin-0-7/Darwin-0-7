@@ -54,5 +54,5 @@ using Ansible and CI/CD.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/darwin-infant-t-a48209251
 - GitHub: https://github.com/Darwin-0-7
