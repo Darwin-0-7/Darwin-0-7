@@ -1,58 +1,20 @@
 # Hi, I'm Darwin 👋
+### Cloud & DevOps Engineer | AWS • Terraform • Kubernetes • CI/CD
 
-## Cloud & DevOps Engineer
+Mechanical Engineering graduate turned Cloud & DevOps engineer. I build AWS infrastructure as code, automate deployments, and monitor everything I ship. **Open to entry-level Cloud, DevOps, Platform, and SRE roles.**
 
-I'm a Mechanical Engineering graduate transitioning into Cloud and DevOps,
-with hands-on experience building AWS infrastructure, CI/CD pipelines,
-containerized applications, and monitoring solutions.
+## 🚀 Featured Projects
+- **[AWS EKS Platform](https://github.com/Darwin-0-7/aws-cloud-infra)**: Terraform-provisioned EKS cluster, GitHub Actions CI/CD, Helm-deployed Prometheus and Grafana monitoring
+- **[End-to-End CI/CD Pipeline](https://github.com/Darwin-0-7/end-to-end-devops-pipeline)**: Jenkins, Docker, Terraform, AWS EC2, Prometheus and Grafana
+- **[AWS Custom VPC with Terraform](https://github.com/Darwin-0-7/aws-custom-vpc-terraform)**: multi-AZ VPC, subnets, routing, and security groups as code
+- **[Ansible + GitHub Actions Pipeline](https://github.com/Darwin-0-7/ansible-aws-pipeline)**: automated server configuration on AWS EC2
 
-### ☁️ Cloud & Infrastructure
+## 🛠️ Tech Stack
+**Cloud & IaC:** AWS (EKS, EC2, VPC, IAM, S3) • Terraform • Ansible
+**CI/CD:** GitHub Actions • Jenkins • Git
+**Containers:** Docker • Kubernetes • Helm
+**Monitoring:** Prometheus • Grafana
+**Systems:** Linux • Bash • Networking (CCNA training, LFCA certified)
 
-- AWS – EC2, VPC, IAM, S3
-- Terraform – Infrastructure as Code
-- Ansible – Configuration Management
-- Linux – System Administration
-
-### 🚀 DevOps
-
-- Git & GitHub
-- GitHub Actions
-- Jenkins
-- Docker
-- Kubernetes
-- Bash Shell Scripting
-
-### 📊 Monitoring
-
-- Prometheus
-- Grafana
-
-## 🔨 Featured Projects
-
-### End-to-End DevOps Pipeline
-GitHub → Jenkins → Docker → AWS EC2
-
-Automated CI/CD pipeline for deploying a containerized application
-with monitoring using Prometheus and Grafana.
-
-### AWS Infrastructure with Terraform
-
-Automated AWS infrastructure provisioning including VPC,
-subnets, security groups and EC2 using Terraform.
-
-### Ansible AWS Pipeline
-
-Automated configuration and application deployment on AWS EC2
-using Ansible and CI/CD.
-
-## 🎯 Currently Learning
-
-- AWS Cloud Architecture
-- Kubernetes
-- Cloud Security
-- DevSecOps
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/darwin-infant-t-a48209251
-- GitHub: https://github.com/Darwin-0-7
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/darwin-infant-t-a48209251) • darwininfant@gmail.com
