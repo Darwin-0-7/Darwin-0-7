@@ -37,5 +37,5 @@ A production-style **E-Commerce DevOps platform on AWS EKS**.
 
 ## 📫 Let's Connect
 
-- LinkedIn: [REPLACE_WITH_LINKEDIN_URL](REPLACE_WITH_LINKEDIN_URL)
-- Email: REPLACE_WITH_EMAIL
+- Phone: +91 9566734625
+- Email: darwininfant@gmail.com
